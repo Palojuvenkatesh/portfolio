@@ -1,0 +1,88 @@
+.heading-about{
+    margin: 20px 0px 0px 20px;
+    position: relative;
+}
+.heading-about::after{
+    position: absolute;
+    content:"";
+    display: block;
+    background-color: blue;
+    
+    /* border: 1px solid blue; */
+    height: 3px;
+    width: 80px;
+
+}
+.pharagraph-about{
+    margin: 20px 0px 0px 20px;
+    font-size: 20px;
+}
+.profile-img{
+    height: 400px;
+    width: 400px;
+    margin: 40px 0px 0px 20px;
+    
+}
+.sub-heading{
+    color: blue;
+    margin: 30px 0px 0px 0px;
+}
+
+.sub-phargraph{
+    font-size: 20px;
+    margin: 10px 0px 0px 0px;
+}
+
+.arow-icon{
+    color: blue;
+    font-size: 20px;
+    margin: 15px 0px 0px 0px;
+}
+
+.heading-birthday{
+    margin: 10px 0px 0px -20px;
+}
+
+.dateformate1{
+    margin: -29px 0px 0px 90px;
+    font-size: 20px;
+}
+
+.age-heading{
+    margin: -50px 0px 0px 350px;
+}
+.arow-icon1{
+    color: blue;
+    font-size: 20px;
+   
+    margin: -50px 0px 0px 320px;
+}
+
+.age1{
+    margin: -27px 0px 0px 405px;
+    font-size: 20px;
+}
+
+.degreename{
+    font-size: 20px;
+    margin: -27px 0px 0px 440px;
+}
+
+.emailexample{
+    margin: -27px 0px 0px 490px;
+    font-size: 20px;
+}
+
+.about-pharagraph{
+    margin:10px 0px 0px 0px ;
+    font-size: 20px;
+}
+
+.portfolio-heading{
+    margin:50px 0px 0px 25px ;
+}
+
+.portfolio-para{
+    font-size: 20px;
+    margin: 40px 0px 0px 25px;
+}

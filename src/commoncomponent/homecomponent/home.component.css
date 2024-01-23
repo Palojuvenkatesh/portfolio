@@ -1,0 +1,12 @@
+.background{
+    background-image: Url("https://images.pexels.com/photos/374044/pexels-photo-374044.jpeg");
+    background-size: cover;
+    height: 100vh;
+    width: 150vh;
+    margin-left: -5px;
+}
+.heading-name{
+    color: white;
+    padding: 240px 0px 0px 200px;
+    font-size: 70px;
+}

@@ -1,0 +1,75 @@
+.portfolio1-icon{
+    height: 250px;
+    margin: 30px 20px 20px 20px;
+    width: 350px;
+}
+
+.portfolio2-icon{
+    height: 250px;
+    margin: 30px 20px 20px 20px;
+    width: 350px;
+}
+.portfolio3-icon{
+    height: 250px;
+    margin: 30px 20px 20px 20px;
+    width: 350px;
+}
+
+.portfolio4-icon{
+    height: 250px;
+    margin: 20px;
+    width: 350px;
+}
+
+.portfolio5-icon{
+    height: 250px;
+    margin: 20px;
+    width: 350px;
+}
+
+.portfolio6-icon{
+    height: 250px;
+    margin: 20px;
+    width: 350px;
+}
+
+.portfolio7-icon{
+    height: 250px;
+    margin: 20px;
+    width: 350px;
+}
+
+.portfolio8-icon{
+    height: 250px;
+    margin: 20px;
+    width: 350px;
+}
+
+.portfolio9-icon{
+    height: 250px;
+    margin: 20px;
+    width: 350px;
+}
+
+
+
+.portfolio-heading{
+    margin-top: 120px;
+
+    position: relative;
+}
+
+.portfolio-heading::after{
+    position: absolute;
+    content:"";
+    display: block;
+    background-color: blue;
+    
+    /* border: 1px solid blue; */
+    height: 3px;
+    width: 80px;
+    padding: 2px;
+    margin-top: 10px;
+}
+
+
